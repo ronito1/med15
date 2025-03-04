@@ -36,7 +36,7 @@ export default function Footer() {
             alt="Logo Icon"
             className="cs_footer_brand_icon"
           />
-          <h2 className="cs_footer_brand_text">ProHealth</h2>
+          <h2 className="cs_footer_brand_text">Regortz</h2>
         </div>
       </div>
       <div className="cs_footer_main">
