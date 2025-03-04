@@ -193,7 +193,7 @@ export default function Header({ logoSrc, variant }) {
             <img src="/images/icons/close.svg" alt="Close" />
           </button>
           <div className="cs_logo_box">
-            <img src="/images/logo.svg" alt="Logo" />
+            <img src="/images/logo.png" alt="Logo" />
             <div className="cs_height_15" />
             <h3 className="cs_fs_24 cs_semibold mb-0">
               Your Partner in Health and Wellness
